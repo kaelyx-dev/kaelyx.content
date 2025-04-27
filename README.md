@@ -12,7 +12,4 @@ Using Github as a CMS :)
     *  Preparsing (Shortcodes for modules I will make) X
     *  Parsing (Marked.js?)
     *  Postparsing (Sanitization, DOMPurify, insane?)
-* Config Refactor
-    * Local configs merged into global config store
-    * Remote config takes higher precedence
-    * Convert local configs into using the global config store
+* Move Persistance of Stores into its own module (repeated code in walker.js and config.js
