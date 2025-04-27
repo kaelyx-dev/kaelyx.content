@@ -14,3 +14,4 @@ Using Github as a CMS :)
     *  Postparsing (Sanitization, DOMPurify, insane?)
 * Move Persistance of Stores into its own module (repeated code in walker.js and config.js
 * Convert relative imports to @alias imports
+* Allow the stores to handle their loading state that other components can listen to.
