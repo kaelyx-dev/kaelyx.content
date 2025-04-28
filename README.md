@@ -9,15 +9,15 @@ Using Github as a CMS :)
     * Directory Walker (DONE)
         * Caching and cache invalidation (DONE)
     * Content Parser
-        *  Preparsing (Pulling out content metadata)
-        *  Parsing (Marked.js?)
-        *  Postparsing (Sanitization, DOMPurify?)
+        *  Preparsing (Pulling out content metadata) (HALF DONE) --> FORMALISE AVAILABLE META KEYS AVAILABLE
+        *  Parsing (Marked.js?) (DONE)
+        *  Postparsing (Sanitization, DOMPurify?) (DONE)
 * Modules
     * Persistance
         *  Move persistance of stores into its own module
             * setPersistance and getPersistance.  
-    * Permalink (ALMOST DONE)
-        * Base62 or Sanitized B64 ie: URIEncode before sending
+    * Permalink (DONE)
+        * Base62 or Sanitized B64 ie: URIEncode before sending (DONE) --> B64 then URIEncode
 * Error Handling
     * Handling if conf or page stores fail to load 
     * Add an error state for if config or directory walker fails
@@ -32,3 +32,4 @@ Using Github as a CMS :)
 * Banner component, using conf values maybe, motd.conf? pick from a random list etc.
 * Cookie Banner (Possible GTM / GA4 Integration)?? Probably not, very down the line.
 * Image Dialog Component
+* Script Loader -> Put in head or foot
