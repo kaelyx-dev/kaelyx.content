@@ -4,7 +4,9 @@ Using Github as a CMS :)
 
 ## TODO:
 * Content
-    * Landing Page, does landing page come from kaelyx.content or is it part of the site? 
+    * Landing Page, does landing page come from kaelyx.content or is it part of the site?
+    * Overflow scrolling on content, fixing content box size.
+    * Fixing md->html content such as UL/OL/LI etc.
 * Components
     * Directory Walker (DONE)
         * Caching and cache invalidation (DONE)
