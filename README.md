@@ -29,3 +29,6 @@ Using Github as a CMS :)
 ## Proposed Features:
 * Postit component
 * Fontawesome or related icon support (add a shortcode too)
+* Banner component, using conf values maybe, motd.conf? pick from a random list etc.
+* Cookie Banner (Possible GTM / GA4 Integration)?? Probably not, very down the line.
+* Image Dialog Component
