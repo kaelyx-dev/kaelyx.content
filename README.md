@@ -7,6 +7,7 @@ Using Github as a CMS :)
     * Landing Page, does landing page come from kaelyx.content or is it part of the site?
     * Overflow scrolling on content, fixing content box size.
     * Fixing md->html content such as UL/OL/LI etc.
+    * Content 404 if the permalink or site link could not be found
 * Components
     * Directory Walker (DONE)
         * Caching and cache invalidation (DONE)
