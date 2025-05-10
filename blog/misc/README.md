@@ -11,3 +11,5 @@ I have some content here
 * Add an image to this file
 * see how it loads
 * do I need to use full paths or can i figure out relative paths
+
+![image](./images/testimage.jpg)

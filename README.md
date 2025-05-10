@@ -18,21 +18,21 @@ Using Github as a CMS :)
 * Modules
     * Persistance
         *  Move persistance of stores into its own module
-            * setPersistance and getPersistance.  
+            * setPersistance and getPersistance.
     * Permalink (DONE)
         * Base62 or Sanitized B64 ie: URIEncode before sending (DONE) --> B64 then URIEncode
-     
+
 * Error Handling
-    * Handling if conf or page stores fail to load 
+    * Handling if conf or page stores fail to load
     * Add an error state for if config or directory walker fails
         * Contact me if its borked
-     
+
 * Housekeeping
     * Convert relative imports to @alias imports
 
 * Head
     * Head component for canonical tag, meta description tag etc.
-    * 
+    *
 ## Proposed Features:
 * Postit component
 * Fontawesome or related icon support (add a shortcode too)
