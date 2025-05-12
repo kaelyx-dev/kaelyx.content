@@ -12,4 +12,4 @@ I have some content here
 * see how it loads
 * do I need to use full paths or can i figure out relative paths
 
-![image](./images/testimage.jpg)
+![image](./images/testimage.jpg "Test Title Content")
