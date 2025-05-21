@@ -1,4 +1,4 @@
-#👋 Hi! Im Kaelyx
+# 👋 Hi! Im Kaelyx
 
 I'm a software developer based in Newcastle upon Tyne, passionate about crafting open-source tools and pieces of work. My mission is to enhance the development workflow by creating cool tools that other people (might) use.
 By Day, I am a professional working in Java, JavaScript, PHP or Sass. Whether that be Vue, Play, Magento 2 or even  Wordpress...<br>
