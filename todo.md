@@ -5,6 +5,7 @@ Using Github as a CMS :)
 ## TODO:
 * General Site
     * Cookie Policy flag in localstorage
+    * Actually add content... sorry
 * Content
     * Icon support
     * Video Support
@@ -17,5 +18,3 @@ Using Github as a CMS :)
     *  GA4 Shortcode
     *  Projects -> project information (project name, project link, project site, project github link)
     *  Projects -> project tech stack (use icons) 
-* DirectoryWalker
-    * Directory Link Type ( Use a hyphen "-" to signify a link, this will then add a "<a href target blank etc..>" with the designated name)
