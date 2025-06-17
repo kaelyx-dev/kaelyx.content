@@ -1,0 +1,17 @@
+# Ai and its collapse towards GPTS
+
+In this post, I am going to cover my observations on the commodification and mass exposure of GPT models and how other impressive models and paradigms are left in the dark.
+
+## Artificial Intelligence (AI) and its collapse towards Generative Pre-trained Transformers (GPTs).
+
+### GPTs are not smart. They are parrots, parrots who have read the entire internet, and then some.
+
+## Novel approaches and The Wall(tm)
+
+## Machine Learning - Its ML not AI.
+
+## Business Use - FOMO is not a business strategy.
+
+## You're using it to do what?! Hallucionations and Inaccuracy.
+
+## SISO - Its an acronym - google the dead internet theory.
