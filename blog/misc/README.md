@@ -1,7 +1,7 @@
 <!-- Title: Readme.md -->
-<!-- Type: ARTICLE -->
-<!-- CreatedDate: 24/04/2025 -->
+<!-- Date: 24/04/2025 -->
 <!-- Keywords: a,b,c,d,e-->
+<!-- ShowPermalink: true-->
 
 # This is an example file that exists in kaelyx.content
 
