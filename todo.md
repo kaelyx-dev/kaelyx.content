@@ -15,3 +15,5 @@ Using Github as a CMS :)
 * Shortcodes
     *  Subdirectory list - Prints a directory view, like nav, but from a certain directory - eg projects/ or blog/
     *  GA4 Shortcode
+    *  Projects -> project information (project name, project link, project site, project github link)
+    *  Projects -> project tech stack (use icons) 
