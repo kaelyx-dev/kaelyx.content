@@ -8,7 +8,7 @@ Using Github as a CMS :)
     * Actually add content... sorry
 * Content
     * Icon support
-    * Video Support
+    * Video Support -- Added link support for youtube videos for the time being
 * Housekeeping
     * Convert relative imports to @alias imports
 * Head
@@ -17,4 +17,18 @@ Using Github as a CMS :)
     *  Subdirectory list - Prints a directory view, like nav, but from a certain directory - eg projects/ or blog/
     *  GA4 Shortcode
     *  Projects -> project information (project name, project link, project site, project github link)
-    *  Projects -> project tech stack (use icons) 
+    *  Projects -> project tech stack (use icons)
+* Tools Directory
+    * colour picker
+    * snippets of code
+    * ml5js KNN avg colour picker?
+    * lorem ipsum generator
+    * contrast checker
+    * box shadow generator
+    * B64 enc/dec
+    * Unit conversion
+    * QR Code generator
+    * Password generator
+    * Random number generator
+    * todo list using local storage
+    * timestamp converter
