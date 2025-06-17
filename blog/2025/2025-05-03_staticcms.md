@@ -9,6 +9,7 @@ I do this because I am cheap, not because I am smart.
 This system relies on two dynamic sources.
 * Configuration
 * Content
+
 Configurations are global site settings and can define the site's title content, footer content and how the navigation should behave.
 Content is the pages and directories themselves, hosting the content that will become clickable and navigable on the site.
 Both of these sources are found in the content repository.
@@ -28,6 +29,7 @@ Naming is for readability and logical grouping but does not get enforced.
 1. Default Config
 2. Remote Config
 3. Local Dev Config (for development use)
+
 Each Layer down can overwrite the previous value stored against a key.
 
 ## Content
