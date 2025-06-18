@@ -1,5 +1,3 @@
-# Gump
-
 {{
 project 
 name=Gump 
