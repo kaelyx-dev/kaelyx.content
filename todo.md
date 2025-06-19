@@ -4,8 +4,9 @@ Using Github as a CMS :)
 
 ## TODO:
 * General Site
-    * Cookie Policy flag in localstorage
+    * Mobile compatible navigation
     * Actually add content... sorry
+    * Cookie Policy flag in localstorage
 * Content
     * Icon support
     * Video Support -- Added link support for youtube videos for the time being
