@@ -12,3 +12,6 @@ I also have sdome writeups or documentation sat here in the {{link link=/project
 
 ## 🧻 Explore the Blog posts
  directory if you fancy an explore. I also occasionally ramble about what I have created, seen or experienced on this small rock floating in space, check them out in my {{link link=/blog/README.md name=Blog}}.
+
+
+ps. this website is still a WIP.
