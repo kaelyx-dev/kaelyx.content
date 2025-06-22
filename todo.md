@@ -7,6 +7,7 @@ Using Github as a CMS :)
     * Mobile compatible navigation
     * Actually add content... sorry
     * Cookie Policy flag in localstorage
+    * Disable local force-refresh of directory and config values
 * Content
     * Icon support
     * Video Support -- Added link support for youtube videos for the time being
