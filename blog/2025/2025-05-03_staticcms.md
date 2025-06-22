@@ -1,3 +1,8 @@
+<!-- Title: CMSless CMS -->
+<!-- Date: 03/05/2025 -->
+<!-- Keywords: static,github pages, cms, headless, content-->
+<!-- Type: ARTICLE-->
+
 # Creating a Static CMS Prototype
 
 This site is hosted on Github using Github pages. Except the content is hosted in another Github repo.
