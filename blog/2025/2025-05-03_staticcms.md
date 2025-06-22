@@ -1,7 +1,7 @@
 <!-- Title: CMSless CMS -->
 <!-- Date: 03/05/2025 -->
-<!-- Keywords: static,github pages, cms, headless, content-->
-<!-- Type: ARTICLE-->
+<!-- Keywords: static,github pages, cms, headless, content -->
+<!-- Type: ARTICLE -->
 
 # Creating a Static CMS Prototype
 
