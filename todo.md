@@ -8,6 +8,7 @@ Using Github as a CMS :)
     * Actually add content... sorry
     * Cookie Policy flag in localstorage
     * Disable local force-refresh of directory and config values
+    * Handle posthog event for ref and utm sources
 * Content
     * Icon support
     * Video Support -- Added link support for youtube videos for the time being
@@ -17,9 +18,6 @@ Using Github as a CMS :)
     * Head component for canonical tag, meta description tag etc.
 * Shortcodes
     *  Subdirectory list - Prints a directory view, like nav, but from a certain directory - eg projects/ or blog/
-    *  GA4 Shortcode
-    *  Projects -> project information (project name, project link, project site, project github link)
-    *  Projects -> project tech stack (use icons)
 * Tools Directory
     * colour picker
     * snippets of code
