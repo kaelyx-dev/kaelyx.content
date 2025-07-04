@@ -3,12 +3,17 @@
 <!-- Keywords: static,github pages, cms, headless, content -->
 <!-- Type: ARTICLE -->
 
-# Creating a Static CMS Prototype
+# Creating a CMS-less CMS via publically hosted git repositories
+The poor mans content-managed website...
 
-This site is hosted on Github using Github pages. Except the content is hosted in another Github repo.
-This site utilises Several modules and services to build a site based of the structure of a content repo.
+The drive for a near-zero cost content-managed portfolio drove my exploration into seeing just how far I can take this experimental site.
+I do this because I am cheap, not becasue I am smart.
+The site itself is a content-sparse Vue SPA that, given a content URL, will crawl special files that define a directory structure and add them to a navigation tree as well as site config files for moduels and services that run the site.
+
+The site then uses this navigation tree to find the relevant content when a user tries to navigate to a page via URL or navigation and load the content on the page via a custom Markdown -> HTML -> VNode Parser that supports shortcodes.
+
+This site is hosted on Github using Github pages. Except the content is hosted in another Github repo serving as a content repo that this current site can pull on.
 This is an experiment,  not a recommendation. It's a “can I?” project, not a “should I?” one. It exists because I’m cheap, not clever. Expect breakage.
-I do this because I am cheap, not because I am smart.
 
 ## Overview
 This system relies on two dynamic sources.
