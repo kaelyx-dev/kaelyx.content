@@ -8,7 +8,7 @@ The poor mans content-managed website...
 
 The drive for a near-zero cost content-managed portfolio drove my exploration into seeing just how far I can take this experimental site.
 I do this because I am cheap, not becasue I am smart.
-The site itself is a content-sparse Vue SPA that, given a content URL, will crawl special files that define a directory structure and add them to a navigation tree as well as site config files for moduels and services that run the site.
+The site itself is a content-sparse Vue SPA that, given a content URL, will crawl special files that define a directory structure and add them to a navigation tree as well as site config files for modules and services that run the site.
 
 The site then uses this navigation tree to find the relevant content when a user tries to navigate to a page via URL or navigation and load the content on the page via a custom Markdown -> HTML -> VNode Parser that supports shortcodes.
 
