@@ -32,3 +32,5 @@ Using Github as a CMS :)
     * Random number generator
     * todo list using local storage
     * timestamp converter
+* Bugs
+    * Fix the Read Time Rendering bug which does not update the read time when a user navigates to a different article, or sticks around for none-article pages
