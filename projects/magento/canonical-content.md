@@ -1,0 +1,1 @@
+{{ project name="Canonical Content" desc="A Magento module that allows you to set and force canonical links onto cms-able content pages" techstack=php,magento projectlink=https://github.com/kaelyx-dev/magento2-canonical-content/ doclink=magento2-canonical-content }}
