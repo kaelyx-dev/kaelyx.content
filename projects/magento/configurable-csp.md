@@ -1,1 +1,1 @@
-
+{{ project name="Configurable CSP" desc="A magento module that allows you to configure csp entries via the cms" techstack=php,magento projectlink=https://github.com/kaelyx-dev/magento2-configurable-csp/ doclink=https://github.com/kaelyx-dev/magento2-configurable-csp/ }}
