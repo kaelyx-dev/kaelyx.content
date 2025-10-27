@@ -31,4 +31,5 @@ Using Github as a CMS :)
     * Random number generator
     * todo list using local storage
     * timestamp converter
+    * force refresh local storage cache tool
 * Bugs
