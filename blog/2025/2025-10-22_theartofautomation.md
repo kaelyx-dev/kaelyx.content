@@ -8,7 +8,6 @@
 A Story in being productive at work to allow myself ot be lazy at work.
 This story / exploration comes from the want to do as little work as possible.
 
-![XKCD - Is it worth the time](./is_it_worth_the_time.png)
-
+![XKCD - Is it worth the time?](./images/is_it_worth_the_time.png "XKCD - Is it worth the time?")
 
 - WIP
