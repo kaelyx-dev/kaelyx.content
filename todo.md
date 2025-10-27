@@ -8,6 +8,7 @@ Using Github as a CMS :)
     * Actually add content... sorry
     * Cookie Policy flag in localstorage
     * Handle posthog event for ref and utm sources
+    * better loading animation
 * Content
     * Icon support
     * Video Support -- Added link support for youtube videos for the time being
