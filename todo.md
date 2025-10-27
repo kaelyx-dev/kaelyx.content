@@ -7,7 +7,6 @@ Using Github as a CMS :)
     * Mobile compatible navigation
     * Actually add content... sorry
     * Cookie Policy flag in localstorage
-    * Disable local force-refresh of directory and config values
     * Handle posthog event for ref and utm sources
 * Content
     * Icon support
@@ -33,4 +32,3 @@ Using Github as a CMS :)
     * todo list using local storage
     * timestamp converter
 * Bugs
-    * Fix the Read Time Rendering bug which does not update the read time when a user navigates to a different article, or sticks around for none-article pages
