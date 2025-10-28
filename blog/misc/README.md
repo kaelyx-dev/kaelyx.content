@@ -26,4 +26,6 @@ y
   {{group.div}}
     test2
   {{/group.div}}
-{{layout.flex}}
+{{/layout.flex}}
+
+<h1></h1>
