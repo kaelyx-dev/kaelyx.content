@@ -12,4 +12,18 @@ I have some content here
 * see how it loads
 * do I need to use full paths or can i figure out relative paths
 
-![image](./images/testimage.jpg "Test Title Content")
+
+{{layout.flex}}
+x
+
+y
+{{layout.flex}}
+
+{{layout.flex}}
+  {{group.div}}
+    test1
+  {{/group.div}}
+  {{group.div}}
+    test2
+  {{/group.div}}
+{{layout.flex}}
